@@ -1,0 +1,25 @@
+
+]	java:S125T"<This block of commented-out lines of code should be removed.(’•ìËûÿÿÿÿ8Òêª£/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àı§„
+R
+java:S1141h"5Extract this nested try block into a separate method.(ŠÏçó8¬ÇÉ¡/
+r	java:S116"QRename this field "DB_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùßÛúÿÿÿÿ8Òğ¦¢/
+h
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(šÍ¤m8Ö×À¢/
+X	java:S125"<This block of commented-out lines of code should be removed.(ê—Ò³8³°Ç /
+C
+java:S1170"!Make this final field static too.(ı…âÊıÿÿÿÿ8ò®Õô€/
+K
+java:S1172I"/Remove this unused method parameter "filename".(ÑöçG8Ë“¿ô€/
+P
+java:S1481‡"-Remove this unused "argument" local variable.(æÍŠÿÿÿÿÿ8Ö×À¢/
+_
+java:S1854‡"<Remove this useless assignment to local variable "argument".(æÍŠÿÿÿÿÿ8Ö×À¢/
+C
+java:S1170"!Make this final field static too.(ùßÛúÿÿÿÿ8Òğ¦¢/
+^
+java:S1126B"AReplace this if-then-else statement by a single return statement.(äÉüæ8îİÌó€/
+X	java:S125c"<This block of commented-out lines of code should be removed.(«ÉÆ×8ÑÈ‹‚/
+t
+java:S3776]"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÅõÄòıÿÿÿÿ8¬ÇÉ¡/
+n	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ÿ¶‹ûÿÿÿÿ8Ö×À¢/

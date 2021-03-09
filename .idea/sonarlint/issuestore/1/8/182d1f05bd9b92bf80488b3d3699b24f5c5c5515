@@ -1,0 +1,41 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àı§„8Òù¦ÿ€/
+>
+java:S1659<""Declare "data" on a separate line.(Àë@8Òù¦ÿ€/
+H
+java:S1481="+Remove this unused "status" local variable.(­ÿÑø8Òù¦ÿ€/
+^	java:S125±"<This block of commented-out lines of code should be removed.(ùõ’šşÿÿÿÿ8Òù¦ÿ€/
+G
+java:S2115Å")Add password protection to this database.(ıéÖä8Òù¦ÿ€/
+w
+java:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(©œÕ¤8Òù¦ÿ€/
+{	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»ŒËıÿÿÿÿ8Òù¦ÿ€/
+F	java:S108½")Either remove or fill this block of code.(â•¼İ8Òù¦ÿ€/
+v	java:S115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾±ä±8Òù¦ÿ€/
+U
+java:S1172"8Remove this unused method parameter "defaultTableModel".(¾¨Æö8Òù¦ÿ€/
+S
+java:S1143¿"5Remove this return statement from this finally block.(Çß¶8Òù¦ÿ€/
+W
+java:S1854?":Remove this useless assignment to local variable "status".(ô¸Äİ8Òù¦ÿ€/
+|
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(æÕ­Ÿúÿÿÿÿ8Òù¦ÿ€/
+F
+java:S21157")Add password protection to this database.(ıéÖä8Òù¦ÿ€/
+ˆ
+java:S1149Ò"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(æÕ­Ÿúÿÿÿÿ8Òù¦ÿ€/
+W
+java:S1854B":Remove this useless assignment to local variable "status".(€Ù‡ü8Òù¦ÿ€/
+ƒ
+java:S1149Í"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Œıìç8Òù¦ÿ€/
+X	java:S1252"<This block of commented-out lines of code should be removed.(ãùéÄ8€®â/
+w
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œıìç8Òù¦ÿ€/
+S
+java:S26967"6Make the enclosing method "static" or remove this set.(ıéÖä8Òù¦ÿ€/
+ƒ
+java:S1149Ô"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©œÕ¤8Òù¦ÿ€/
+X
+java:S2696;"6Make the enclosing method "static" or remove this set.(‡²€·ıÿÿÿÿ8Òù¦ÿ€/
+X
+java:S1854©":Remove this useless assignment to local variable "status".(»¶Ü 8Òù¦ÿ€/
